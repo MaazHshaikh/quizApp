@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital city of Pakistan?",
+      "options": ["Islamabad", "Lahore", "Rawalpindi", "Karachi"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which river is the longest in Pakistan?",
+      "options": ["Jhelum River", "Chenab River", "Ravi River", "Indus River"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Which mountain range is located in the northern part of Pakistan?",
+      "options": ["Karakoram Range", "Himalayas", "Andes", "Rocky Mountains"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which city is known as the 'City of Lights' in Pakistan?",
+      "options": ["Karachi", "Islamabad", "Lahore", "Multan"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Who is considered the national poet of Pakistan?",
+      "options": [
+        "Faiz Ahmed Faiz",
+        "Allama Iqbal",
+        "Mirza Ghalib",
+        "Fahmida Riaz"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What is the highest mountain in Pakistan and the second-highest in the world?",
+      "options": ["Mount Everest", "Annapurna", "K2", "Nanga Parbat"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Which Pakistani cricketer is known as the 'Rawalpindi Express'?",
+      "options": ["Wasim Akram", "Imran Khan", "Waqar Younis", "Shoaib Akhtar"],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "What is the name of the famous ancient archaeological site in Pakistan, also known as the 'Mound of the Dead'?",
+      "options": ["Harappa", "Swat Valley", "Mohenjo-Daro", "Taxila"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "What is the name of the highest battlefield in the world, located in Pakistan-occupied Kashmir?",
+      "options": [
+        "K2 Base Camp",
+        "Nanga Parbat",
+        "Concordia",
+        "Siachen Glacier"
+      ],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "What is the name of the famous ancient trade route that connected the East and West, passing through parts of present-day Pakistan?",
+      "options": ["Amber Road", "Salt Route", "Incense Route", "Silk Road"],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "Which city in Pakistan is known for its traditional truck art and is often called the 'City of Flowers'?",
+      "options": ["Faisalabad", "Peshawar", "Quetta", "Rawalpindi"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Who was the first female Prime Minister of Pakistan?",
+      "options": [
+        "Hina Rabbani Khar",
+        "Benazir Bhutto",
+        "Fatima Jinnah",
+        "Asma Jahangir"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "Who was the Pakistani pilot responsible for downing and capturing the Indian pilot, Wing Commander Abhinandan Varthaman, during a military confrontation in 2019?",
+      "options": [
+        "Group Captain Ali",
+        "Wing Commander Ahmed Shah",
+        "Squadron Leader Hassan Siddiqui",
+        "Flight Lieutenant Bilal"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Which ancient civilization, dating back over 4,000 years, developed in the region of what is now Pakistan?",
+      "options": [
+        "Indus Valley Civilization",
+        "Babylonian Civilization",
+        "Egyptian Civilization",
+        "Mayan Civilization"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Which Pakistani scientist is often referred to as the 'Father of the Pakistani Bomb' for his significant contributions to Pakistan's nuclear program?",
+      "options": [
+        "Dr. Ishrat Hussain Usmani",
+        "Dr. Abdul Sattar Edhi",
+        "Dr. Abdul Qadeer Khan",
+        "Dr. Atta-ur-Rahman"
+      ],
+      "correctOption": 2,
+      "points": 20
+    }
+  ]
+}
